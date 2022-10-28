@@ -52,7 +52,7 @@ p:hover {
     background-image: linear-gradient(140deg, #4c8c4a 0%, #1b5e20 50%, #003300 100%);;
 }
 
-.footer a {
+footer a {
     text-decoration: none;
     color: darkturquoise;
 }
