@@ -6,11 +6,11 @@
   <summary>
     Website Creation Parts 1-8
   </summary>
-  Learn how to create a small business website with a Commision based webstore for apparel, a custom store for everything else. The techniques used in this tutorial set were used to make the [https://mrsiefensrobotemporium.com](https://mrsiefensrobotemporium.com) website. [#](Click here) to find out more about this series!
+  Learn how to create a small business website with a Commision based webstore for apparel, a custom store for everything else. The techniques used in this tutorial set were used to make the [https://www.mrsiefensrobotemporium.com](https://www.mrsiefensrobotemporium.com) website. [#](Click here) to find out more about this series!
 </details>
 <details>
   <summary>
     Google Analytics and SEO 1-8
   </summary>
-  Learn how to create a small business website with a Commision based webstore for apparel, a custom store for everything else. The techniques used in this tutorial set were used to make the [https://mrsiefensrobotemporium.com](https://mrsiefensrobotemporium.com) website. [#](Click here) to find out more about this series!
+  Learn how to create a small business website with a Commision based webstore for apparel, a custom store for everything else. The techniques used in this tutorial set were used to make the [https://mrsiefensrobotemporium.com] (https://mrsiefensrobotemporium.com) website. [#](Click here) to find out more about this series!
 </details>
