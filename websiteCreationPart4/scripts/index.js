@@ -5,9 +5,9 @@ window.setInterval(fadingHeader, 50);
 var ang = 0;
 var opacity = 1;
 var opacityIncr = -0.01;
-var elmoGif = document.getElementById('elmoGif');
-var rHead = document.getElementById('rainbowHeader');
-var fHead = document.getElementById('fadingHeader');
+const elmoGif = document.getElementById('elmoGif');
+const rHead = document.getElementById('rainbowHeader');
+const fHead = document.getElementById('fadingHeader');
 
 function updateHeader(){
     var x = Math.floor(Math.random() * 256);
@@ -20,8 +20,8 @@ function updateHeader(){
         rHead.style.color = "black";
     }
     var bgColor = "rgb(" + x + "," + y + "," + z + ")";
-    console.log(bgColor);
     rHead.style.background = bgColor;
+    console.log(bgColor);
 }
 
 function rotateImage(){
